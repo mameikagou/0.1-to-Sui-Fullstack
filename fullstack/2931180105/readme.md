@@ -8,7 +8,8 @@
 
 
 ## 作业
-- [] 第一周:![study_record](./images/study_record.png)
+- [] 第一周:
+![运行成功截图](./images/one_week_ok.png)
 - [] 第二周:
 - [] 第三周:
 - [] 第四周:
@@ -17,7 +18,10 @@
 
 ## b站，推特关注
 
-- [] b站，推特关注截图: ![关注截图](./images/你的图片地址)
+- [] b站，推特关注截图: 
+b站![b站关注](./images/bilibili.png)
+推特![twiter关注](./images/twiter.png)
+
 
 ## 为共学营宣传（在朋友圈或者群聊中转发海报/文章）
 
@@ -25,7 +29,9 @@
 
 ## 每周课程学习
 
-- [] 第一周:![学习记录截图](./images/你的图片地址)
+- [] 第一周:
+第二次直播课代码复盘![two_live_record](./images/two_live.png)study_record.png)
+第三次直播课运行完成![three_record](./images/three_live.png)
 - [] 第二周:![学习记录截图](./images/你的图片地址)
 - [] 第三周:![学习记录截图](./images/你的图片地址)
 - [] 第四周:![学习记录截图](./images/你的图片地址)
