@@ -43,14 +43,14 @@
 
 - [x] 第一篇笔记:https://blog.csdn.net/qq_46151595/article/details/144876638?sharetype=blogdetail&sharerId=144876638&sharerefer=PC&sharesource=qq_46151595&spm=1011.2480.3001.8118
 - [x] 第二篇笔记:https://juejin.cn/post/7455123456071942163
-- [] 第三篇笔记
+- [x] 第三篇笔记:https://juejin.cn/post/7456409369465143330
 - [] 第四篇笔记
 
 ## 对外输出学习笔记
 
 - [x] 第一篇笔记【[Sui Move 前端共学（笔记一）](https://blog.csdn.net/qq_46151595/article/details/144876638?sharetype=blogdetail&sharerId=144876638&sharerefer=PC&sharesource=qq_46151595&spm=1011.2480.3001.8118)】
 - [x] 第二篇笔记【[Sui Move 前端共学（笔记二）-ref表单域](https://juejin.cn/post/7455123456071942163)
-- [] 第三篇笔记【学习笔记链接】
+- [x] 第三篇笔记【[Sui Move 前端共学笔记（三）](https://juejin.cn/post/7456409369465143330)】
 - [] 第四篇笔记【学习笔记链接】
 
 ## 在HOH社区公众号发布自己的技术文章
