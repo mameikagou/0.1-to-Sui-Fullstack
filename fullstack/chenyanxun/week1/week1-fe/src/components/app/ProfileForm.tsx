@@ -7,7 +7,6 @@ const { Title, Paragraph } = Typography;
 function ProfileForm() {
   const { mutate: signAndExecute } = useSignAndExecuteTransaction();
   const submit = (value: { name: string; description: string }) => {
-    console.log(value);
     const tx = new Transaction();
     tx.moveCall({
       package: networkConfig.testnet.packageID,
