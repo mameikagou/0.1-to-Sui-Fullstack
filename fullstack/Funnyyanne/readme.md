@@ -9,7 +9,7 @@
 
 ## 作业
 - [✅] 第一周:![任务截图:task1_1-task1_3](./images/task1_1.png)
-- [] 第二周:
+- [✅] 第二周:https://funnyyanne.walrus.site/#/coins
 - [] 第三周:
 - [] 第四周:
 
