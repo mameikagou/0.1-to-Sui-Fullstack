@@ -1,18 +1,18 @@
 /*
 #[test_only]
-module filling::filling_tests;
+module weekone::weekone_tests;
 // uncomment this line to import the module
-// use filling::filling;
+// use weekone::weekone;
 
 const ENotImplemented: u64 = 0;
 
 #[test]
-fun test_filling() {
+fun test_weekone() {
     // pass
 }
 
-#[test, expected_failure(abort_code = ::filling::filling_tests::ENotImplemented)]
-fun test_filling_fail() {
+#[test, expected_failure(abort_code = ::weekone::weekone_tests::ENotImplemented)]
+fun test_weekone_fail() {
     abort ENotImplemented
 }
 */
