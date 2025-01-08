@@ -30,10 +30,17 @@ b站![b站关注](./images/bilibili.png)
 ## 每周课程学习
 
 - [] 第一周:
-第二次直播课代码复盘![two_live_record](./images/two_live.png)study_record.png)
-第三次直播课运行完成![three_record](./images/three_live.png)
+  第二次直播课代码复盘![two_live_record](./images/two_live.png)study_record.png)
+  第三次直播课运行完成![three_record](./images/three_live.png)
+
 - [] 第二周:![学习记录截图](./images/你的图片地址)
+
+  第二周第一次直播课：
+
+  ![two_week_one_live](.\images\two_week_one_live.png)
+
 - [] 第三周:![学习记录截图](./images/你的图片地址)
+
 - [] 第四周:![学习记录截图](./images/你的图片地址)
 
 ## 参加直播答疑
@@ -46,6 +53,9 @@ b站![b站关注](./images/bilibili.png)
 ## 群里分享学习笔记
 
 - [] 第一篇笔记
+
+​	react笔记之jsx:https://blog.csdn.net/qq_43707445/article/details/145009793?sharetype=blogdetail&sharerId=145009793&sharerefer=PC&sharesource=qq_43707445&spm=1011.2480.3001.8118
+
 - [] 第二篇笔记
 - [] 第三篇笔记
 - [] 第四篇笔记
