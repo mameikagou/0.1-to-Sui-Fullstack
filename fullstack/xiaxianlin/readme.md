@@ -7,7 +7,7 @@
 
 
 ## 作业
-- [*] 第一周: https://hoh-sui-task.vercel.app/task1
+- [*] 第一周: https://sui.xiaxianlin.com/task
 - [] 第二周:
 - [] 第三周:
 - [] 第四周:
