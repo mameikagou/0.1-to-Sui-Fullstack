@@ -39,6 +39,10 @@ b站![b站关注](./images/bilibili.png)
 
   ![two_week_one_live](.\images\two_week_one_live.png)
 
+  第二周第二次直播课：
+
+  ![two_week_two_live](.\images\two_week_two_live.png)
+
 - [] 第三周:![学习记录截图](./images/你的图片地址)
 
 - [] 第四周:![学习记录截图](./images/你的图片地址)
