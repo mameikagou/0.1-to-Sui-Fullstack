@@ -79,8 +79,15 @@ b站![b站关注](./images/bilibili.png)
 ## 对外输出学习笔记
 
 - [] 第一篇笔记【学习笔记链接】
+
+  <a href = "https://blog.csdn.net/qq_43707445/article/details/145009793?sharetype=blogdetail&sharerId=145009793&sharerefer=PC&sharesource=qq_43707445&spm=1011.2480.3001.8118">学习笔记之jsx</a>
+
 - [] 第二篇笔记【学习笔记链接】
+
+  <a href = "https://blog.csdn.net/qq_43707445/article/details/145042649?sharetype=blogdetail&sharerId=145042649&sharerefer=PC&sharesource=qq_43707445&spm=1011.2480.3001.8118">学习笔记之组件</a>
+
 - [] 第三篇笔记【学习笔记链接】
+
 - [] 第四篇笔记【学习笔记链接】
 
 ## 在HOH社区公众号发布自己的技术文章
