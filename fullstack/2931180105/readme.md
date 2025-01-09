@@ -43,6 +43,14 @@ b站![b站关注](./images/bilibili.png)
 
   ![two_week_two_live](.\images\two_week_two_live.png)
 
+  第二周第三次直播课
+
+  ![two_week_there_live](.\images\two_week_there_live.png)
+
+  第三次直播课结束：
+
+  ![two_week_there_live_end](.\images\two_week_there_live_end.png)
+
 - [] 第三周:![学习记录截图](./images/你的图片地址)
 
 - [] 第四周:![学习记录截图](./images/你的图片地址)
@@ -61,7 +69,11 @@ b站![b站关注](./images/bilibili.png)
 ​	react笔记之jsx:https://blog.csdn.net/qq_43707445/article/details/145009793?sharetype=blogdetail&sharerId=145009793&sharerefer=PC&sharesource=qq_43707445&spm=1011.2480.3001.8118
 
 - [] 第二篇笔记
+
+  react笔记之组件：https://blog.csdn.net/qq_43707445/article/details/145042649?sharetype=blogdetail&sharerId=145042649&sharerefer=PC&sharesource=qq_43707445&spm=1011.2480.3001.8118
+
 - [] 第三篇笔记
+
 - [] 第四篇笔记
 
 ## 对外输出学习笔记
