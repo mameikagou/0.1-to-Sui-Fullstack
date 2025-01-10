@@ -74,6 +74,8 @@ b站![b站关注](./images/bilibili.png)
 
 - [] 第三篇笔记
 
+  react笔记之组件02：https://blog.csdn.net/qq_43707445/article/details/145065747
+
 - [] 第四篇笔记
 
 ## 对外输出学习笔记
@@ -87,6 +89,8 @@ b站![b站关注](./images/bilibili.png)
   <a href = "https://blog.csdn.net/qq_43707445/article/details/145042649?sharetype=blogdetail&sharerId=145042649&sharerefer=PC&sharesource=qq_43707445&spm=1011.2480.3001.8118">学习笔记之组件</a>
 
 - [] 第三篇笔记【学习笔记链接】
+
+  <a href = "https://blog.csdn.net/qq_43707445/article/details/145065747">学习笔记之组件02</a>
 
 - [] 第四篇笔记【学习笔记链接】
 
