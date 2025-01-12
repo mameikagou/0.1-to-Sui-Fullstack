@@ -50,6 +50,8 @@
 - [x] 第三篇笔记:https://juejin.cn/post/7456409369465143330
 - [x] 第四篇笔记:https://juejin.cn/post/7457065893299552267
 - [x] 第五篇笔记: https://juejin.cn/post/7457816281348341760
+- [x] 第六篇笔记: https://juejin.cn/post/7458595414150168591
+- [x] 第七篇笔记: https://juejin.cn/post/7458595414150184975
 
 ## 对外输出学习笔记
 第一周：
@@ -59,6 +61,8 @@
 - [x] 第三篇笔记【[Sui Move 前端共学笔记（三）](https://juejin.cn/post/7456409369465143330)】
 - [x] 第四篇笔记【[Sui Move 前端共学笔记（四）-状态提升(中间人通信)](https://juejin.cn/post/7457065893299552267)】
 - [x] 第五篇笔记【[Sui Move前端共学笔记(五)-订阅发布者模式](https://juejin.cn/post/7457816281348341760)】
+- [x] 第六篇笔记【[Sui Move 前端共学笔记(六)-Context](https://juejin.cn/post/7458595414150168591)】
+- [x] 第七篇笔记【[Sui Move 前端共学笔记（七）-slot(插槽)](https://juejin.cn/post/7458595414150184975)】
 
 ## 在HOH社区公众号发布自己的技术文章
 
