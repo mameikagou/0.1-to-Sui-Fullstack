@@ -25,7 +25,7 @@ export const createProfile = async (name: string, description: string) => {
   const tx = new Transaction();
   tx.moveCall({
     package: packageID,
-    module: "resource_manage",
+    module: "resourcem_anagement",
     function: "create_profile",
     arguments: [
       tx.pure.string(name),
