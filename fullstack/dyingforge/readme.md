@@ -9,7 +9,7 @@
 
 ## 作业
 - [√] 第一周:![week1作业](./images/week1.png)
-- [] 第二周:
+- [√] 第二周:![week2作业](0.1-to-Sui-Fullstack/fullstack/dyingforge/images/manage.png)
 - [] 第三周:
 - [] 第四周:
 
@@ -26,7 +26,7 @@
 ## 每周课程学习
 
 - [√] 第一周:![学习记录截图](0.1-to-Sui-Fullstack/fullstack/dyingforge/readme.md)
-- [] 第二周:![学习记录截图](./images/你的图片地址)
+- [√] 第二周:![学习记录截图](0.1-to-Sui-Fullstack/fullstack/dyingforge/images/week2_course.png)
 - [] 第三周:![学习记录截图](./images/你的图片地址)
 - [] 第四周:![学习记录截图](./images/你的图片地址)
 
