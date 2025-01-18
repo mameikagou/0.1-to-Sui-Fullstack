@@ -20,6 +20,7 @@ https://suiscan.xyz/testnet/object/0x75a1149f5265ffb90ec8b99996d40de33ec4de3be3a
 ![第一周截图](./week1/1736651413436.jpg)
 
 - [] 第二周:
+
 - [] 第三周:
 - [] 第四周:
 
@@ -40,9 +41,16 @@ https://suiscan.xyz/testnet/object/0x75a1149f5265ffb90ec8b99996d40de33ec4de3be3a
 
 ## 参加直播答疑
 
-- [] 第一周:![学习记录截图](./images/你的图片地址)
-- [] 第二周:![学习记录截图](./images/你的图片地址)
-- [] 第三周:![学习记录截图](./images/你的图片地址)
+- [x] 第一周:![week1](./images/week1_metting_1.jpg)
+      ![week1](./images/week1_metting_2.jpg)
+      ![week1](./images/week1_metting_3.jpg)
+
+- [x] 第二周:![week2](./images/week2_metting_1.jpg)
+      ![week2](./images/week2_metting_2.jpg)
+      ![week2](./images/week2_metting_3.jpg)
+
+- [x] 第三周:![week1](./images/week3_metting_1.jpg)
+
 - [] 第四周:![学习记录截图](./images/你的图片地址)
 
 ## 群里分享学习笔记
@@ -54,10 +62,22 @@ https://suiscan.xyz/testnet/object/0x75a1149f5265ffb90ec8b99996d40de33ec4de3be3a
 
 ## 对外输出学习笔记
 
-- [] 第一篇笔记【学习笔记链接】
-- [] 第二篇笔记【学习笔记链接】
-- [] 第三篇笔记【学习笔记链接】
-- [] 第四篇笔记【学习笔记链接】
+- [x] 第一篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145043355
+- [x] 第二篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145043610
+- [x] 第三篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145043743
+- [x] 第四篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145044023
+- [x] 第五篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145044171
+- [x] 第六篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145044243
+- [x] 第七篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145044593
+- [x] 第八篇笔记
+      https://blog.csdn.net/janronehoo/article/details/145092258
 
 ## 在 HOH 社区公众号发布自己的技术文章
 
