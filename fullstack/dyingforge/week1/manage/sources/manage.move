@@ -47,7 +47,7 @@ public entry fun creat_profile(
 ) {
     let uid = object::new(ctx);
     let owner = ctx.sender();
-    assert!(table::contains(&state.users, owner), EProfileExist);
+    assert!(!table::contains(&state.users, owner), EProfileExist);
     let id = object::uid_to_inner(&uid);
     let new_profile = Profile {
         id: uid,
