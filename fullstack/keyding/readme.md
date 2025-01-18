@@ -37,6 +37,7 @@
 	- <img width="600" src="./images/live-week2-03.png" alt="直播记录" />
 - [] 第三周:
 	- <img width="600" src="./images/live-week3-01.png" alt="直播记录" />
+	- <img width="600" src="./images/live-week3-02.png" alt="直播记录" />
 - [] 第四周:![学习记录截图](./images/你的图片地址)
 
 ## 群里分享学习笔记
