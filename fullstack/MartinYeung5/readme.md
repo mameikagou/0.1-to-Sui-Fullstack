@@ -12,6 +12,8 @@
 ![task1](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250104_task1_screencap.png)
 
 - [] 第二周:
+0xa57b446a24be6b563f9222b275f8b9f5743001c070ab6094b6abfb289645bfbd
+![task2](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250119_task2_screencap.png)
 
 - [] 第三周:
 - [] 第四周:
