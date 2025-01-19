@@ -44,6 +44,7 @@
 - [√] 第四篇笔记(https://learnblockchain.cn/article/10618)
 - [√] 第五篇笔记(https://learnblockchain.cn/article/10629)
 - [√] 第六篇笔记(https://learnblockchain.cn/article/10633)
+- [√] 第七篇笔记(https://learnblockchain.cn/article/10640)
 
 ## 对外输出学习笔记
 
@@ -53,7 +54,7 @@
 - [√] 第四篇笔记【(https://learnblockchain.cn/article/10618)】
 - [√] 第五篇笔记【(https://learnblockchain.cn/article/10629)】
 - [√] 第六篇笔记【(https://learnblockchain.cn/article/10633)】
-
+- [√] 第七篇笔记【(https://learnblockchain.cn/article/10640)】
 ## 在HOH社区公众号发布自己的技术文章
 
 - [] 第一篇笔记【公众号文章链接】
