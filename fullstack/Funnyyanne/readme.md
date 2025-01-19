@@ -42,14 +42,14 @@
 - [✅] 第一篇笔记:[笔记分享](./images/群内笔记1分享.png)
 - [✅] 第二篇笔记![笔记分享t](./images/群内笔记2分享.png)
 - [✅] 第三篇笔记:https://juejin.cn/spost/7461207418597507098 
-- [] 第四篇笔记
+- [✅] 第四篇笔记:https://learnblockchain.cn/article/10639
 
 ## 对外输出学习笔记
 
 - [✅] 第一篇笔记【学习笔记链接】:https://juejin.cn/post/7456260239886958631
 - [✅] 第二篇笔记【学习笔记链接】:https://juejin.cn/post/7457091635865387045
 - [✅] 第三篇笔记【学习笔记链接】:https://juejin.cn/spost/7461207418597507098 
-- [] 第四篇笔记【学习笔记链接】
+- [✅] 第四篇笔记【学习笔记链接】:https://learnblockchain.cn/article/10639
 
 ## 在HOH社区公众号发布自己的技术文章
 
