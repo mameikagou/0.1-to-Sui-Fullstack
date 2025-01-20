@@ -12,6 +12,8 @@
 ![task1](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250104_task1_screencap.png)
 
 - [] 第二周:
+![task2](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250119_task2_screencap.png)
+
 - [] 第三周:
 - [] 第四周:
 
@@ -46,13 +48,25 @@
 * 第二課
 ![学习记录截图](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250102_live.png)
 
-- [] 第二周:![学习记录截图](./images/你的图片地址)
-- [] 第三周:![学习记录截图](./images/你的图片地址)
+- [] 第二周:
+* 第一課
+![学习记录截图](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250106_live.png)
+* 第二課
+![学习记录截图](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250108_live.png)
+* 第三課
+![学习记录截图](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250109_live.png)
+
+- [] 第三周:
+* 第一課
+![学习记录截图](https://github.com/MartinYeung5/0.1-to-Sui-Fullstack/blob/main/fullstack/MartinYeung5/images/20250116_live.png)
+
+
 - [] 第四周:![学习记录截图](./images/你的图片地址)
 
 ## 群里分享学习笔记
 
 - [] 第一篇笔记
+* https://learnblockchain.cn/article/10505
 - [] 第二篇笔记
 - [] 第三篇笔记
 - [] 第四篇笔记
